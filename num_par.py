@@ -1,4 +1,4 @@
-# Código Python – Contar Números Pares
+
 def contar_pares(lista):
     contador = 0
     for numero in lista:
