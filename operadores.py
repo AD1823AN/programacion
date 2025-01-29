@@ -1,7 +1,7 @@
 # Declaración de variables
 nombre = "Adriana" #variable de tipo cadena (string) que almacena un nombre
-edad = 21
-altura = 1.62
+edad = 21 #variable de tipo entero (int) que almacena la edad 
+altura = 1.62#
  
 # Operaciones
 suma = 5 + 3
