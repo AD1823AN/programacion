@@ -1,5 +1,5 @@
 # Declaración de variables
-nombre = "Adriana"
+nombre = "Adriana" #variable de tipo cadena (string) que almacena un nombre
 edad = 21
 altura = 1.62
  
