@@ -17,3 +17,4 @@ operacion = "la operacion es"
 ## Concatenación de cadenas
 saludo = "Hola, " + nombre + ". Tu edad es: " + str(edad) + ". Tu altura es: " + str(altura) + ". " + operacion + str(suma)
 print(saludo)
+ 
