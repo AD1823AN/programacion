@@ -4,4 +4,3 @@
 #y la sintaxis de un nuevo lenguaje de programación
 print("Hola Adri, bienvenida a tu primer !Hola mundo! en python")
 
-
