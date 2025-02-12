@@ -11,6 +11,7 @@ def contar_pares(lista):
     return contador
     
 entrada = input("Ingrese una lista de números separados por espacios: ")
+
 numeros = [int(x) for x in entrada.split()]
 cantidad_pares = contar_pares(numeros)
 print("Cantidad de números pares:", cantidad_pares)
