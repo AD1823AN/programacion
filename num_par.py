@@ -3,7 +3,6 @@ def contar_pares(lista):
     for numero in lista:
         if numero % 2 == 0:
             contador += 1
-            
     return contador
     
 entrada = input("Ingrese una lista de números separados por espacios: ")
