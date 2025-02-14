@@ -1,6 +1,5 @@
 def contar_pares(lista):
     contador = 0
-    
     for numero in lista:
         
         if numero % 2 == 0:
