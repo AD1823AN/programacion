@@ -1,6 +1,7 @@
 #Adriana Trejo Patricio 
 
 #Ingenieria en Sistemas Computacionales
+
 #Programaion en python 
 # Declaración de variables
 nombre = "Adriana" #variable de tipo cadena (string) que almacena un nombre
