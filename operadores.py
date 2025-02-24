@@ -1,7 +1,6 @@
 #Adriana Trejo Patricio 
 #Ingenieria en Sistemas Computacionales
 #Programaion en python 
-
 # Declaración de variables
 nombre = "Adriana" #variable de tipo cadena (string) que almacena un nombre
 edad = 21 #variable de tipo entero (int) que almacena la edad 
