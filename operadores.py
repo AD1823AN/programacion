@@ -1,4 +1,5 @@
 #Adriana Trejo Patricio 
+
 #Ingenieria en Sistemas Computacionales
 #Programaion en python 
 # Declaración de variables
